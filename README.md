@@ -1,2 +1,5 @@
 # Differential Analysis of Gene Expression
+Gene expression data can be analyzed with different approaches. In this study, we conducted a comprehensive evaluation of both approaches of Differentially Expressed Genes (DEGs) and Differential Co-expressed. Our study can be used to reveal dependencies between genes by identifying coordinated expression that differs across conditions. Specifically, we applied these approaches to gene expression data related to Urothelial Carcinoma (that accounts for about 90% of all Bladder cancers) and obtained results for each gene expressed data. These results can be used for making informed decisions about differentially expressed genes worthy of further research.
  
+Gene expression data have been downloaded from The Cancer Genome Atlas, and it is related to the Bladder Urothelial Carcinoma project and has been selected for only patients for whom cancer and normal tissue files are available.
+After the data preprocessing step, we had 17352 genes with their IDs and expressed data, for both cancer and normal tissues of 19 patients.
